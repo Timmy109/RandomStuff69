@@ -10,3 +10,7 @@ while x == 1:
     time.sleep(0.1)
     GPIO.output(ledPin, GPIO.LOW)
     time.sleep(0.1)
+    GPIO.output(ledPin, GPIO.HIGH)
+    time.sleep(0.5)
+    GPIO.output(ledPin, GPIO.LOW)
+    time.sleep(0.5)
