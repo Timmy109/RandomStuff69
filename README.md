@@ -1,1 +1,1 @@
-This was a mistake. 
+this is not cool man.
